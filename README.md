@@ -1,4 +1,4 @@
-参考地址
+数据来源参考
 
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
